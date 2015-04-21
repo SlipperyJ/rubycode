@@ -1,6 +1,6 @@
 
 class Ticket
-	
+
 	def venue
 		"Town Hall"
 	end
